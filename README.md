@@ -4,7 +4,7 @@ Release code for a cascade LightGBM-LSTM rainfall prediction model.
 
 The release implementation is in [cascade_model.py](cascade_model.py). It combines data preparation, model training, metric reporting, and prediction plots in a single script.
 
-Traditional Chinese documentation is available in [README.zh-TW.md](README.zh-TW.md). The earlier autoresearch workspace README is preserved as [README.autoresearch.md](README.autoresearch.md).
+Traditional Chinese documentation is available in [README.zh-TW.md](README.zh-TW.md).
 
 ## Model
 
